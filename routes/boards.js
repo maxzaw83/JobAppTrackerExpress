@@ -1,0 +1,1 @@
+// Boards route placeholder (actual logic can be filled later)

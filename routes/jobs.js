@@ -1,0 +1,1 @@
+// Jobs route placeholder (actual logic can be filled later)
